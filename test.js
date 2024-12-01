@@ -277,8 +277,3 @@ const data =
 
   const answer10 = data.reduce((acc, curr) => [...acc, curr.username.toLowerCase()],[])
   console.log({answer10})
-
-
-
-   
-
